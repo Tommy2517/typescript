@@ -15,7 +15,10 @@ const funk2 = (num: number): Function => {
     return () => console.log('qwe')
 }
 
-
+const func34 = (q)=>{
+    console.log(q)
+}
+func34(23)
 ////////////////////объекты
 //что бы создать объект нужно использовать команду interfce
 //interfece принято описывать с буквы I
